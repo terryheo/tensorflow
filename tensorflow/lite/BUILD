@@ -258,6 +258,7 @@ cc_library(
         "//tensorflow/lite/core/api",
         "//tensorflow/lite/delegates:status",
         "//tensorflow/lite/delegates/nnapi:nnapi_delegate",
+        "//tensorflow/lite/delegates/flex:delegate",
         "//tensorflow/lite/experimental/resource",
         "//tensorflow/lite/kernels/internal:compatibility",
         "//tensorflow/lite/nnapi:nnapi_implementation",
